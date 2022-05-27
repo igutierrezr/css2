@@ -2,7 +2,66 @@ body {
     background-color: #efefef;
 }
 
-.caja {
-     margin: 8px;
-     background-color: #aaf;
+#cabecera {
+    background-color: #ffffff;
+    border-radius: 2px;
+    border-left: 1px inset;
+    border-top: 1px outset;
+    border-bottom: 1px outset;
+    border-right: 1px outset;
+    margin: 5px;
+    margin-bottom: 0;
+    padding: 8px;
+}
+
+#caja {
+    background-color: #ffffff;
+    border-radius: 2px;
+    border-left: 1px inset;
+    border-top: 1px outset;
+    border-bottom: 1px outset;
+    border-right: 1px outset;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0;
+    padding: 8px;
+}
+
+#cajaBotones {
+    background-color: #ffffff;
+    border-radius: 2px;
+    border-left: 1px inset;
+    border-top: 1px outset;
+    border-bottom: 1px outset;
+    border-right: 1px outset;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 0;
+    padding: 8px;
+}
+
+#botonAceptar {
+    background-color: #0685f9;
+    color: #ffffff;
+    border-radius: 2px;
+    border-left: 1px inset;
+    border-top: 1px outset;
+    border-bottom: 1px outset;
+    border-right: 1px outset;
+    margin: 5px;
+    margin-right: 1px;
+    padding: 8px;
+}
+
+#botonCancelar {
+    background-color: #a2a2a2;
+    color: #ffffff;
+    border-radius: 2px;
+    border-left: 1px inset;
+    border-top: 1px outset;
+    border-bottom: 1px outset;
+    border-right: 1px outset;
+    margin: 5px;
+    margin-left: 1px;
+    padding: 8px;
 }
