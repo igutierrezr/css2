@@ -2,15 +2,3 @@ body {
     background-color: #eee;
 }
 
-p {
-    color: #222fff;
-    text-align: left;
-    text-indent: 40px;
-    line-height: 1.2;
-}
-
-a {
-    text-decoration: none;
-    text-transform: capitalize;
-    letter-spacing: 3px;
-}
