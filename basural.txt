@@ -108,6 +108,66 @@ li {
 }
 9:
 
-10:
+table {
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+}
 
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+10:
+p {
+    max-width: 350px;
+    background-color: #f00;
+    margin: auto;
+    position: relative;
+    right: 15px;
+    top: 0px;
+    bottom: 0px;
+    left: 1px;
+}
 11:
+#over {
+    width: 100px;
+    height: 100px;
+    overflow-x: scroll;
+}
+
+12:
+
+img {
+    float: left;
+    padding-right: 10px;
+}
+
+img:hover {
+    opacity: 0.9;
+}
+
+div p { 
+    color:blue;
+}
+13:
+
+14:
+
+15:
+
+
