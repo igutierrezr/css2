@@ -165,7 +165,14 @@ div p {
     color:blue;
 }
 13:
-
+    height: 400px;
+    background: green url('https://placedog.net/500') no-repeat center center fixed;
+    /* background-color: green;
+    background-image: url('https://placedog.net/500');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll; */
+    background-size: cover;
 14:
 
 15:
